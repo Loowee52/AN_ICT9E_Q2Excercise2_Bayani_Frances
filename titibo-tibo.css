@@ -1,0 +1,16 @@
+body {
+	background-color: #e0d984;
+}
+h1, h3 {
+	color: #b0ac45;
+	text-shadow: 1px 1px #7d7a38;
+}
+small{
+	color: black;
+    font-family: 'Brush Script MT', cursive;
+}
+span{
+	font-family: 'Brush Script MT', cursive;
+	font-size: 15px;
+	background-color: #cfcb82;
+}
